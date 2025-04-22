@@ -1,0 +1,23 @@
+# Data Handling
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+
+# Machine Learning Models
+hmmlearn
+tensorflow
+keras
+scipy
+
+# Geospatial & Mapping
+folium
+osmnx
+geopy
+networkx
+dateutil
+
+# Web Application (Optional)
+streamlit
+streamlit-folium
